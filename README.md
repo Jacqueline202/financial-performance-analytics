@@ -1,5 +1,8 @@
 # Financial Performance Analytics Dashboard
 
+<img width="640" height="640" alt="Screenshot 2026-09-10 at 9 35 55 PM" src="https://github.com/user-attachments/assets/11de49fa-9b8f-4855-8208-fe3f4aebd1cc" />
+
+
 An end-to-end financial analytics project analyzing engagement profitability,
 budget performance, realization, and receivables using Python, Excel, Power BI,
 and DAX.
