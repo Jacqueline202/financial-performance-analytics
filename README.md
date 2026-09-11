@@ -1,13 +1,13 @@
 # Financial Performance Analytics Dashboard
 
-##Case Economics
+## Case Economics
 
 <img width="1161" height="662" alt="Screenshot 2026-09-10 at 9 46 55 PM" src="https://github.com/user-attachments/assets/4d1dd3bb-8c49-4a89-b125-1ab7ff1ff0dc" />
 
 <br>
 </br>
 
-##Receivables
+## Receivables
 <img width="640" height="640" alt="Screenshot 2026-09-10 at 9 35 55 PM" src="https://github.com/user-attachments/assets/11de49fa-9b8f-4855-8208-fe3f4aebd1cc" />
 
 
